@@ -15,10 +15,10 @@ Welcome to the express guide to mastering FocusFrameFinder! 🧭✨
 
 Alright, enough talk, let's get down to business!
 
-0.Fork the repo.
-1. Clone the repository: `git clone https://github.com/your-github-handle/focusframefinder.git`
-2. Navigate to the cloned directory: `cd focusframefinder`
-3. Install necessary packages: `pip install opencv-python numpy tqdm`
+1.Fork the repo.
+2. Clone the repository: `git clone https://github.com/your-github-handle/focusframefinder.git`
+3. Navigate to the cloned directory: `cd focusframefinder`
+4. Install necessary packages: `pip install opencv-python numpy tqdm`
 
 
 
